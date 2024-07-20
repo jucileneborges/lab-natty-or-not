@@ -1,5 +1,3 @@
-
-```markdown
 # Tecnologias fora da época ;)
 
 ## 📒 Descrição
@@ -16,4 +14,4 @@ Fornecido prompt com as características que gostaria que aparecessem na imagem,
 
 ## 💭 Reflexão (Opcional)
 A moça tem 6 dedos na mão kkkkkkk São ferramentas que, quanto mais detalhamos o que queremos, a entrega é cada vez mais refinada.
-```
+
